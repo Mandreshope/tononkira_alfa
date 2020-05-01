@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857903293267",
+    "firebase_url": "https://tononkira-alfa.firebaseio.com",
+    "project_id": "tononkira-alfa",
+    "storage_bucket": "tononkira-alfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857903293267:android:1e2a8784c2724ea4d3f7a6",
+        "android_client_info": {
+          "package_name": "com.mandreshope.tononkira_alfa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857903293267-31lf6mdgtknkfgcminubqcehfmisq2jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHdJurEs-1NeT-o83Od-l613uawczGls"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857903293267-31lf6mdgtknkfgcminubqcehfmisq2jo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
